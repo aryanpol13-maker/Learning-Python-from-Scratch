@@ -1,0 +1,14 @@
+x = 'Hello World'
+y = {1:'a', 2:'b'}
+
+#output True
+print('H' in x)
+
+#output True
+print('Hello' in x)
+
+#Output True
+print(1 in y)
+
+#Output False : read only keys
+print('a'in y)
