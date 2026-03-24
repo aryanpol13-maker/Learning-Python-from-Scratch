@@ -1,0 +1,14 @@
+I_am_set = {1,2,3,3,'set'}
+print(I_am_set)
+I_am_list = [ 1,2,3,3,'set']
+print(I_am_list)
+I_am_tuple = (1,2,3,3,'set')
+print(I_am_tuple)
+curly_set={1,2,3,3}
+print(curly_set)
+function_set = set('JKB Education and IT services')
+print(function_set)
+mixed_set = {'hello',4,4.55}
+print(mixed_set)
+set1 = set([1,2,3,4,5,6,7,8])
+print(set1)
